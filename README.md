@@ -5,7 +5,9 @@ A starter template for Rust projects with GitHub Actions CI orientated workflow.
 ## Usage
 
 - click on the `Use this template` button for this repo
-- cd to your newly created project
+- fill out the new project details
+- git clone your new GitHub project
+- cd to the project's directory
 - initialise with a new Rust project `cargo init --vcs none` alternative copy your existing code into the folder
 - update this `README.md` to reflect your own project's awesomeness!
 
