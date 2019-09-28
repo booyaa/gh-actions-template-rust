@@ -1,5 +1,12 @@
 # gh-actions-template-rust
+
 A starter template for Rust projects with GitHub Actions enabled
+
+## Usage
+
+- click on the `Use this template` button for this repo
+- cd to your newly created project
+- intialise with a new Rust project `cargo init --vcs none` alternative copy your existing code into the folder
 
 ## License
 
